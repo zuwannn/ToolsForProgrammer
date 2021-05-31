@@ -3,8 +3,6 @@
 
 
 ## CSS
-[Omatsuri](https://omatsuri.app/)
+### [Omatsuri](https://omatsuri.app/)
+<img align="center" src="https://raw.githubusercontent.com/zuwannn/ToolsForProgrammer/main/Omatsuri.png" /> 
 
-<p align ="center">
-  <img src="https://raw.githubusercontent.com/zuwannn/ToolsForProgrammer/main/Omatsuri.png" /> 
-</p>
